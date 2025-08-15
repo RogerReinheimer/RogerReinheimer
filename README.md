@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/roger2805/roger2805/blob/output/github-contribution-grid-snake.svg)
 # Olá, me chamo Roger!  
 ## Bem-vindo ao meu perfil no GitHub
 
@@ -31,4 +32,10 @@
 <a href="https://instagram.com/_kolono_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rogerreinheimer2805@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/roger-reinheimer-856235362" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/roger2805">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger2805&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=roger2805&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
