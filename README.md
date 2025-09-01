@@ -6,6 +6,7 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 **Tecnologias e linguagens que estudo e tenho conhecimento:**
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
@@ -18,8 +19,8 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 
 **Áreas de interesse:**  
 - Desenvolvimento Fullstack  
-- Banco de Dados  
-- Aplicações Web e Mobile
+- Machine Learning
+- Banco de Dados
 
 **Objetivos atuais:**  
 - Criar projetos que integrem front-end, back-end e banco de dados  
