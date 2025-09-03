@@ -48,5 +48,5 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RogerReinheimer/roger2805/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RogerReinheimer/RogerReinheimer/output/snake.svg" alt="Snake animation" />
 </div>
