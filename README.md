@@ -20,6 +20,7 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 **Áreas de interesse:**  
 - Desenvolvimento Fullstack  
 - Machine Learning
+- Aplicações Moblie
 - Banco de Dados
 
 **Objetivos atuais:**  
