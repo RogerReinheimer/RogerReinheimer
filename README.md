@@ -29,11 +29,11 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 
 **Status do GitHub:** 
 <div align="center">
-  <a href="https://github.com/roger2805">
+  <a href="https://github.com/RogerReinheimer">
     <img 
       loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger2805&layout=compact&langs_count=7&theme=dracula&cache_seconds=0" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/roger2805">
+  <a href="https://github.com/RogerReinheimer">
     <img 
       loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=roger2805&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats"/>
   </a>
@@ -48,5 +48,5 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/roger2805/roger2805/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RogerReinheimer/roger2805/output/snake.svg" alt="Snake animation" />
 </div>
