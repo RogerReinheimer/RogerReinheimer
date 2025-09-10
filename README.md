@@ -32,11 +32,11 @@ Atualmente curso **Técnico em Informática** no **Instituto Ivoti** e, por cont
 <div align="center">
   <a href="https://github.com/RogerReinheimer">
     <img 
-      loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&langs_count=7&theme=dracula&cache_seconds=0" alt="Top Languages"/>
+      loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&langs_count=7&theme=dracula&cache_seconds=0" alt="Top Languages"/>
   </a>
   <a href="https://github.com/RogerReinheimer">
     <img 
-      loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats"/>
+      loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats"/>
   </a>
 
 </div>
