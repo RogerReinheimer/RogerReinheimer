@@ -27,11 +27,11 @@
 <p align="center">
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=18" 
+    src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=18" 
   />
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&theme=dracula&border_radius=18" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&theme=dark&border_radius=18" 
   />
 </p>
 
