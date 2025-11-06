@@ -6,9 +6,9 @@
 </p>
 
 ## 🎯 Áreas de Interesse
-- Desenvolvimento **Fullstack**  
-- **Machine Learning** e Inteligência Artificial 
-- **Banco de Dados** e Engenharia de Dados 
+- Desenvolvimento Fullstack
+- Desemvolvimento Back-End Python
+- Desenvolvimento Mobile
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="center">
