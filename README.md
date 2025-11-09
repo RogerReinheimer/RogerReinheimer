@@ -7,7 +7,6 @@
 
 ## 🎯 Áreas de Interesse
 - Desenvolvimento Fullstack
-- Desemvolvimento Back-End Python
 - Desenvolvimento Mobile
 
 ## 🚀 Tecnologias e Ferramentas
