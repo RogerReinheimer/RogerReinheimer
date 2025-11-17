@@ -2,6 +2,8 @@
   <img src="assets/images/Bem Vindo ao meu perfil.png" width="800" />
 </p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=435&lines=Sobre%20Mim)
+<div align="left">
 <p align="justify">
 Me chamo Roger, tenho 18 anos e moro no Rio Grande do Sul. Sou apaixonado pelo mundo da tecnologia e gosto de entender como as coisas funcionam de verdade.
 </p>
@@ -31,7 +33,7 @@ aprofundando meus conhecimentos.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Tecnologias)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=435&lines=Tecnologias)
 <div align="left">
   
 <p align="center">
@@ -49,7 +51,7 @@ aprofundando meus conhecimentos.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Estatísticas)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=435&lines=Estatísticas)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&hide_border=true&theme=dark"/>
@@ -57,7 +59,7 @@ aprofundando meus conhecimentos.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Contribuições)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=435&lines=Contribuições)
 <p align="center">
   <img src="https://raw.githubusercontent.com/RogerReinheimer/RogerReinheimer/output/snake.svg" alt="Snake animation"/>
 </p>
