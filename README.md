@@ -4,12 +4,29 @@
   Atualmente curso <strong>Técnico em Informática</strong> no <strong>Instituto Ivoti</strong> e estudo de forma independente na <strong>Alura</strong>, 
   aprofundando meus conhecimentos.
 </p>
+<p>Tenho interrese nas seguintes áreas</p>
+<ul>
+  <li>Desenvolvimento Fullstack</li>
+  <li>Desenvolvimento Mobile</li>
+</ul>
 
-## 🎯 Áreas de Interesse
-- Desenvolvimento Fullstack
-- Desenvolvimento Mobile
+<p align="center">
+  <a href="https://instagram.com/_kolono_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:rogerreinheimer2805@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roger-reinheimer" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>   
+</p>
 
-## 🚀 Tecnologias e Ferramentas
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Tecnologias)
+<div align="left">
+  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
@@ -23,28 +40,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40"/>
 </p> 
 
-## 📊 Minhas Estatísticas
-<p align="center">
-  <img 
-    height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&theme=dark&border_radius=10" 
-  />
-</p>
+---
 
-## 🐍 Contribuições
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Estatísticas)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&hide_border=true&theme=dark"/>
+</div>
+
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Contribuições)
 <p align="center">
   <img src="https://raw.githubusercontent.com/RogerReinheimer/RogerReinheimer/output/snake.svg" alt="Snake animation"/>
-</p>
-
-## 📬 Contato
-<p align="center">
-  <a href="https://instagram.com/_kolono_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:rogerreinheimer2805@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/roger-reinheimer" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>   
 </p>
