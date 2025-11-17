@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá, me chamo Roger!</h1>
+<p align="center">
+  <img src="assets/images/Bem Vindo ao meu perfil.png" width="600" />
+</p>
 
 <p align="center">
   Atualmente curso <strong>Técnico em Informática</strong> no <strong>Instituto Ivoti</strong> e estudo de forma independente na <strong>Alura</strong>, 
