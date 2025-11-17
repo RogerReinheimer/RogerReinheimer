@@ -2,14 +2,19 @@
   <img src="assets/images/Bem Vindo ao meu perfil.png" width="600" />
 </p>
 
-<p align="center">
-  Atualmente curso <strong>Técnico em Informática</strong> no <strong>Instituto Ivoti</strong> e estudo de forma independente na <strong>Alura</strong>, 
-  aprofundando meus conhecimentos.
+<p align="justify">
+Me chamo Roger, tenho 18 anos e moro no Rio Grande do Sul. Sou apaixonado pelo mundo da tecnologia e gosto de entender como as coisas funcionam de verdade.
 </p>
-<p>Tenho interrese nas seguintes áreas</p>
+
+<p>
+Atualmente curso <strong>Técnico em Informática</strong> no <strong>Instituto Ivoti</strong> e estudo de forma independente na <strong>Alura</strong>, 
+aprofundando meus conhecimentos.
+</p>
+
+<p>Tenho interesse nas seguintes áreas:</p>
 <ul>
-  <li>Desenvolvimento Fullstack</li>
   <li>Desenvolvimento Mobile</li>
+  <li>Desenvolvimento Fullstack</li>
 </ul>
 
 <p align="center">
