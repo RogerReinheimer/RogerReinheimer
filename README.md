@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/Bem Vindo ao meu perfil.png" width="600" />
+  <img src="assets/images/Bem Vindo ao meu perfil.png" width="800" />
 </p>
 
 <p align="justify">
