@@ -54,7 +54,7 @@ aprofundando meus conhecimentos.
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=435&lines=Estatísticas)
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&hide_border=true&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&hide_border=true&count_private=true&theme=dark&cache_seconds=21600"/>
 </div>
 
 ---
