@@ -52,16 +52,6 @@ aprofundando meus conhecimentos.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&width=435&lines=Estatísticas)
-<div align="center">
-  <img height="175em"
-       src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="175em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&width=435&lines=Contribuições)
 <p align="center">
   <img src="https://raw.githubusercontent.com/RogerReinheimer/RogerReinheimer/output/snake.svg" alt="Snake animation"/>
