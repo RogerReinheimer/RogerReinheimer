@@ -52,6 +52,15 @@ aprofundando meus conhecimentos.
 
 ---
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&width=435&lines=Estatísticas)
+<div align="left">
+
+<p align="center">
+  <img src="https://github-readme-statss-pi.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&width=435&lines=Contribuições)
 <p align="center">
   <img src="https://raw.githubusercontent.com/RogerReinheimer/RogerReinheimer/output/snake.svg" alt="Snake animation"/>
