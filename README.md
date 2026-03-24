@@ -56,7 +56,8 @@ aprofundando meus conhecimentos.
 <div align="left">
 
 <p align="center">
-  <img src="https://github-readme-statss-pi.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerReinheimer&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerReinheimer&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 ---
